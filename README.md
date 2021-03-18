@@ -1,8 +1,11 @@
-# AirCnC
-Projeto criado na Semana OmniStack 9.0 da Rocketseat!
+# AirCNC
+![Node](https://img.shields.io/badge/node-10.16.3-green) ![Npm](https://img.shields.io/badge/nvm-6.9.0-green)
 
-## Estrutura:
+Projeto criado na Semana OmniStack 9.0 da [Rocketseat](https://rocketseat.com.br)
 
+## Estrutura
+```
+.
 ├── backend/src/
 |   ├── config/
 |       └── upload.js (configuração do pacote de upload de arquivo - multer)
@@ -15,3 +18,5 @@ Projeto criado na Semana OmniStack 9.0 da Rocketseat!
 |   ├── .env.example  (arquivo de exemplo para definir as variáveis de ambiente utilizadas no backend)
 |   └── package.json
 ├── uploads/          (diretório onde serão salvos os arquivos enviados para a API)
+└── README.md
+```
