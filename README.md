@@ -1,5 +1,5 @@
 # AirCNC
-![Node](https://img.shields.io/badge/node-10.16.3-green) ![Npm](https://img.shields.io/badge/nvm-6.9.0-green)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MrNicolass/AirCnC/blob/main/LICENSE) ![Npm](https://img.shields.io/badge/nvm-6.9.0-green)
 
 Projeto criado na Semana OmniStack 9.0 da [Rocketseat](https://rocketseat.com.br)
 
